@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--自定义属性-->
+    <declare-styleable name="NumberAddAndSubstractView">
+        <attr name="minValue" format="integer"/>
+        <attr name="maxValue" format="integer"/>
+        <attr name="value" format="integer"/>
+        <attr name="numberAddAndSubstracBackground" format="reference"/>
+        <attr name="numberAddBtnBackground" format="reference"/>
+        <attr name="numberSubstractBtnBackground" format="reference"/>
+    </declare-styleable>
+
+</resources>

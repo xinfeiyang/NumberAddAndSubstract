@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NumberAddAndSubstractView"><attr format="integer" name="minValue"/><attr format="integer" name="maxValue"/><attr format="integer" name="value"/><attr format="reference" name="numberAddAndSubstracBackground"/><attr format="reference" name="numberAddBtnBackground"/><attr format="reference" name="numberSubstractBtnBackground"/></declare-styleable>
+    <string name="app_name">NumberAddAndSubstractViewLib</string>
+</resources>
